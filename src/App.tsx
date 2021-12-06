@@ -1,12 +1,12 @@
 import React from 'react';
 
-import {SVGIcon, SVGSource} from './components/SvgSmallPack'
+import {SVGIcon, SVGSource} from './components/SvgBigPack'
 
 function App() {
     return (
         <>
             <SVGSource/>
-            <SVGIcon id='airplay'/>
+            <SVGIcon id='align-center-v'/>
         </>
     );
 }
